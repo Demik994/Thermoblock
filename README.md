@@ -28,3 +28,10 @@ This PCB uses following components:
   - 5-pin Male Strip
   - 12V 8A Power Supply (I used 350W old PC PSU)
 
+The software uses following libraries:
+
+  - https://github.com/Dlloydev/QuickPID
+  - https://github.com/Stutchbury/EncoderButton
+  - https://github.com/adafruit/Adafruit_SSD1306
+  - https://github.com/adafruit/Adafruit-GFX-Library
+
